@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+  border: 1px solid lightgray;
+  background-color: lightgray;
+}
+li {
+  font-weight: bold;
+  color: green;
+}
